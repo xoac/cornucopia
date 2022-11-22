@@ -2,7 +2,7 @@
 members = [
   "examples/*",
   "clients/*",
-  "integration",
+  #"integration",
   "codegen_test",
   "bench",
   "cornucopia",
